@@ -7,3 +7,6 @@
 - Implementar estadísticas personalizadas
 - Manipular datos con la API de libros: Gutendex https://gutendex.com/
   
+<p align="center">
+<img src="https://github.com/Orliluq/desafio/assets/122529721/0b660ea0-f5af-4147-9b4b-375c0156a7b6"/>
+</p>
